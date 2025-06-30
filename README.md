@@ -31,10 +31,3 @@ To perform a thorough Exploratory Data Analysis using Python libraries such as *
 - **1st class passengers** had significantly better survival chances.
 - There are missing values in `Age`, `Cabin`, and `Embarked` which need to be addressed in modeling.
 
-## How to Run
-
-1. Clone the repository or download the ZIP
-2. Open `eda_tested.ipynb` in Jupyter Notebook or VS Code with Jupyter extension
-3. Ensure you have required libraries:
-```bash
-pip install pandas matplotlib seaborn
